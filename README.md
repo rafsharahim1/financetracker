@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/rafsharahim1/your-financetracker.git
+git clone https://github.com/rafsharahim1/financetracker.git
 Navigate into the project directory:
 
 bash
